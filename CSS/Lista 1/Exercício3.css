@@ -1,0 +1,14 @@
+body {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.classe {
+  color: #333333;
+  font-family: Tahoma, sans-serif;
+}
+
+#identificador {
+  color: blue;
+  font-family: Verdana, sans-serif;
+}
